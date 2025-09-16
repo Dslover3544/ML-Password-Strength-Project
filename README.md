@@ -1,10 +1,5 @@
 # 🔐 Phishing URL Detector
 
-A beginner-friendly machine learning project that detects whether a website URL is **legitimate or phishing**.  
-This project is designed to be simple, easy to follow, and a great starting point for combining **cybersecurity and machine learning**.
-
----
-
 ## 📌 Project Overview
 Phishing websites trick users into giving away sensitive information such as usernames, passwords, or credit card details.  
 In this project, we train a machine learning model that can classify URLs as **phishing** or **legitimate** using simple features.
